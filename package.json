@@ -6,6 +6,7 @@
   "author": "im1 <im1@woowahan.com>",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^6.2.1"
+    "cypress": "^6.2.1",
+    "typescript": "^4.3.2"
   }
 }
